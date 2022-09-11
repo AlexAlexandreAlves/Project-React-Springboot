@@ -1,4 +1,4 @@
-# Projeto React SpringBoot
+## Projeto React SpringBoot
 
 #### Projeto criado e voltado a estudos das linguagens React com Typescript para o frontend, e para o backend foi utilizado java com maven para a construção do projeto.
 
