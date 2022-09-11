@@ -1,4 +1,4 @@
-### Projeto React SpringBoot
+## Projeto React SpringBoot
 
 ##### O projeto retorna informações cadastradas em uma base fixa, sendo possível fazer as listagens por filtro da data das vendas e envio de sms automático. Para a construção foram utilizadas as seguintes linguagens, frameworks e ferramentas:
 
