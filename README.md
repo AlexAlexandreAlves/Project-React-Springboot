@@ -1,6 +1,6 @@
-## Projeto React SpringBoot
+<h1> Projeto React SpringBoot </h1>
 
- <h3>O projeto retorna informações cadastradas em uma base fixa, sendo possível fazer as listagens por filtro da data das vendas e envio de sms automático. Para a construção foram utilizadas as seguintes linguagens, frameworks e ferramentas: </h3>
+ <h4>O projeto retorna informações cadastradas em uma base fixa, sendo possível fazer as listagens por filtro da data das vendas e envio de sms automático. Para a construção foram utilizadas as seguintes linguagens, frameworks e ferramentas: </h3>
 
 - React e TypeScript para o FrontEnd
 - Java e Maven utilizando o SpringBoot para o BackEnd
